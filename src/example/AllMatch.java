@@ -1,9 +1,9 @@
-package allmatch;
+package example;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class AllMatchExample {
+public class AllMatch {
 
     public static void main(String[] args) {
 
